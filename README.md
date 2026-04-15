@@ -1,5 +1,7 @@
 # Recipe Manager — Frontend
 
+[![Build Status](https://dev.azure.com/aleexandrajunges/Recipe%20Manager/_apis/build/status%2Falexandra-domareski.recipe-manager?branchName=main)](https://dev.azure.com/aleexandrajunges/Recipe%20Manager/_build/latest?definitionId=3&branchName=main)
+
 A frontend application for managing and browsing recipes, built with **React**, **TypeScript**, **Vite** and **Tailwind**. This project provides a responsive and modern UI to display, organize, and interact with recipe data.
 
 ## 🧠 What’s This?
@@ -17,7 +19,9 @@ This repository contains the **frontend** portion of the Recipe Manager project.
 - 📤 Export recipes and share with others
 - 📶 Choose Difficulty "Easy, Medium, hard"
 
-_These features are planned — feel free to add them as issues or pull requests!_
+## 🔗 Related
+
+- 🖥️ [Backend Repository](https://github.com/Stradow/recipe-manager-express) — The Express.js API powering this application.
 
 ## 🧪 Getting Started
 
